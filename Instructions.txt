@@ -1,0 +1,8 @@
+HOW TO USE?
+
+* install and setup elastic search at port 9001 i.e. its default port. It is like webserver running in background
+* open this folder and in terminal/cmd run npm init to setup all files asssociated in this folder
+* run main.js file 1 time to create index
+* now index.js is a server file that you need to run. When you will run it will set server on port 3001.
+*In browser visit localhost:3001 and template.html page will open
+* Search for cities
